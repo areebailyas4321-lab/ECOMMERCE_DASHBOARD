@@ -13,5 +13,6 @@ This repository contains a Power BI project designed to analyze Ecommerce sales 
 2. If prompted, load the data from the provided CSV files (`Details.csv` and `Orders.csv`).
 3. Explore the visualizations to gain insights into the ecommerce data.
 
-## Author
-[Your Name/Organization]
+## Repository
+This project is available at: https://github.com/areebailyas4321-lab/PowerBi_project1
+
